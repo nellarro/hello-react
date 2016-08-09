@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  display: flex;
+  background-color: teal;
+  height: 150px;
+  padding: 20px;
+  color: #F1EDE4;
+  text-align: left;
+  font-size: 50px;
+}
+
+.App-header ul {
+  list-style: none;
+}
+
+.App-header li {
+  font-size: small;
+  display: inline;
+  color: silver;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-article {
+  background-color: #E5EAF0;
+  border: 6px solid #161415;
+}
+
+p.App-article {
+  margin-top: 0px;
+}
+
+.App-image {
+  background-image: url(images/paper.jpg);
+}
